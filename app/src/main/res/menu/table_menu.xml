@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/merge_column_up"
+        android:title="merge column up" />
+    <item
+        android:id="@+id/merge_column_down"
+        android:title="merge column down" />
+    <item
+        android:id="@+id/merge_line_left"
+        android:title="merge line left" />
+    <item
+        android:id="@+id/merge_line_right"
+        android:title="merge line right" />
+<!--    <item
+        android:id="@+id/acolumn"
+        android:title="add column " />
+    <item
+        android:id="@+id/aline"
+        android:title="add line" />-->
+</menu>
