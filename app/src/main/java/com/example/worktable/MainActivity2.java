@@ -45,6 +45,7 @@ public class MainActivity2 extends AppCompatActivity {
 
                 // Добавляем границы для каждой ячейки
                 GradientDrawable border = new GradientDrawable();
+
                 border.setStroke(1, Color.BLACK);
                 editText.setBackground(border);
 
