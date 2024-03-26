@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private GestureDetector gestureDetector;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
